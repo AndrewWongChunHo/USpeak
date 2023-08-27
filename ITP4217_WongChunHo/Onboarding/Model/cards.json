@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120002",
+        "title": "Scan\ntext,\neasy.",
+        "subTitle": "Easily transfer the scanned text to speech",
+        "image": "card_image_01"
+    },
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120001",
+        "title": "Change\nyour\nvoice.",
+        "subTitle": "Play with sound effects & Change your voice",
+        "image": "card_image_02"
+    },
+    { 
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120004",
+        "title": "Play\nwith\nsounds.",
+        "subTitle": "Experience the generation of Voice UI",
+        "image": "card_image_03"
+    }
+]
+
+ 
